@@ -1,0 +1,37 @@
+body{
+ margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin: auto;
+    width: 1200px;
+}
+ .cardcontainer{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0 auto;
+    width: 1200px;
+}
+.cardcontainer{
+background-color: red;
+width: 500px;
+height: 400px;
+margin-top: 100px;
+} 
+.cardcontainer p{
+    margin-left: 250px;
+}
+ .cardcontainer h1{
+    margin-left: 250px;
+    margin-top: -260px;
+}
+ .cardcontainer img{
+     width: 250px;
+    height: 300px;
+}
+img{
+     width: 250px;
+    height: 300px;
+
+} 
+
