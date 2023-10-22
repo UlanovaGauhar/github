@@ -30,5 +30,9 @@ container.style.marginTop='100px'
     currency2.onchange = function () { 
         summ();
     }
+// MyBranch
 }
 // My commit 
+// fetch
+// pull
+// merge
